@@ -12,7 +12,7 @@ O propósito deste repositório é duplo:
 
 ### Como funciona
 
-Caso queira rodar o código de um design específico basta clicar no nome do design(Ex: Decorator.java) e clicar rodar na sua IDE a classe, pois cada implementação contém o método Main.
+Caso queira rodar o código de um design específico basta clicar no nome do design(Ex: Decorator.java) e clicar para rodar na sua IDE, pois cada implementação contém o método Main.
 
 ![image](https://github.com/lucasmartinslima/Design-Patterns-Java/assets/42473978/c21d4185-e7ce-4643-916b-4b1b432370aa)
 

@@ -1,4 +1,4 @@
-package com.teste.abstractFactory; 
+package com.teste.criacional.abstractFactory; 
 
 public interface AbstractFactory<T> {
     T create(String type);

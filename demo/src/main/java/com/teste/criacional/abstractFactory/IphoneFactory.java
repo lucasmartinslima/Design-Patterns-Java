@@ -1,4 +1,4 @@
-package com.teste.abstractFactory;
+package com.teste.criacional.abstractFactory;
 
 import java.util.HashMap;
 

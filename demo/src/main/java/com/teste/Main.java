@@ -1,6 +1,6 @@
 package com.teste;
 
-import com.teste.abstractFactory.*;
+import com.teste.criacional.abstractFactory.*;
 
 public class Main {
     public static void main(String[] args) { 

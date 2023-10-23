@@ -1,8 +1,6 @@
 
 # Design Patterns em Java
-
-Este repositório tem o intuito de ser algo que fará que meus estudos sejam salvos em etapas, além de documentar aquilo que entendi pelo sobre determidado pattern.
-
+ 
 Este repositório tem como objetivo ser um registro das etapas do meu estudo e documentar a compreensão de cada padrão de design em Java.
 
 ### Objetivo

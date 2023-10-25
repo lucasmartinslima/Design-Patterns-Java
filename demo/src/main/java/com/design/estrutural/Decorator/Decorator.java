@@ -4,7 +4,7 @@ package com.design.estrutural.Decorator;
 public class Decorator {
     public static void main(String[] args) {
 
-        Document document = new DocumentPDF("tçwste");
+        Document document = new DocumentPDF("Este é um texto teste para exemplo.");
         System.out.println(document.text());
 
         // Usando o Decorator UpperCase, isso fará com que o texto se transforme em caixa alta. Uma implementação simples, porem importante para projetos grandes

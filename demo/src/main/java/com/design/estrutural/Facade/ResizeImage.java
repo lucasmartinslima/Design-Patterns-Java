@@ -19,7 +19,7 @@ public class ResizeImage {
             ImageIO.write(
                     convertToBufferedImage(image),
                     "png",
-                    new File("C:\\Users\\Lucas\\Desktop\\java teste\\demo\\src\\main\\java\\com\\design\\estrutural\\Facade\\image-resized.png"));
+                    new File("C:\\Users\\Lucas\\Desktop\\java teste\\demo\\src\\main\\java\\com\\design\\estrutural\\Facade\\imgs\\image-resized.png"));
 
         } catch (Exception e) {
             // TODO: handle exception

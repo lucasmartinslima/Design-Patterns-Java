@@ -11,7 +11,6 @@ public class Decorator {
         document = new UpperCaseDocument(document);
         Document documentUpper = new UpperCaseDocument(document);
         System.out.println(documentUpper.text()); 
-
-
+ 
     }
 }

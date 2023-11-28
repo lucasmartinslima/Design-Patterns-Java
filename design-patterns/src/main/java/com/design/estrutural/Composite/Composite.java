@@ -14,5 +14,6 @@ public class Composite {
         cart.addProduct(iphone2);
 
         System.out.println(cart.precoTotal());
+
     }
 }
